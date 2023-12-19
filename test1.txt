@@ -1,0 +1,5 @@
+this is 1st commit
+This is for git diff
+added to the staging area after the commit.
+direct commit
+still learning
